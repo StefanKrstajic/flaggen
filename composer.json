@@ -1,0 +1,21 @@
+{
+    "name": "htl3r/krstajic",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "stefan",
+            "email": "stefan.krstajic.sk@gmail.com"
+        }
+    ],
+    "require": {
+        "resavac/flags": "dev-master",
+        "typo3fluid/fluid": "^2.4"
+    },
+    "repositories": {
+        "flagpackage": {
+            "type": "vcs",
+            "url": "https://github.com/Dusan-Resavac/htl3r.flags.git"
+        }
+    }
+}
